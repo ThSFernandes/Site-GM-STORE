@@ -78,7 +78,7 @@ Este repositório está licenciado sob a MIT License. Para obter mais informaç�
 
 <b> 👤 Gabrielly Vitória <b>
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/gabrielly-a-41aa261a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabrielly-assun%C3%A7%C3%A3o-41aa261a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
   
