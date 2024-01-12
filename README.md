@@ -62,7 +62,7 @@ npm install
 Este repositório está licenciado sob a MIT License. Para obter mais informações detalhadas, consulte o arquivo LICENSE localizado neste repositório.
 
 ---
-<h2 id="author">👨‍💻&nbsp; Autor</h2>
+<h2 id="author">👨‍💻&nbsp; Autores</h2>
 
 <b> 👤 Thiago Salles Fernandes<b>
 <div style="display: inline_block">
