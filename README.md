@@ -10,7 +10,7 @@
 	<a href="#installation">Como executar</a> |
 	<a href="#technologie">Tecnologia</a> |
 	<a href="#licence">Licença</a> |
-	<a href="#author">Autor</a>
+	<a href="#author">Autores</a>
 
 
 </div>
