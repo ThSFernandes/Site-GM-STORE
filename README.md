@@ -71,7 +71,7 @@ Este repositório está licenciado sob a MIT License. Para obter mais informaç�
 <b> 👤 Paloma Bianca do Nascimento<b>
 <div style="display: inline_block">
  <a href="https://www.linkedin.com/in/paloma-nascimento-22690920a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-https://www.linkedin.com/in/paloma-nascimento-22690920a/
+
 <b> 👤 Luiz Filipe Ferreira Ramos <b>
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/luiz-filipe-ferreira-ramos-ba80a7235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
